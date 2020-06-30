@@ -20,6 +20,10 @@ python3  rename.py
 
 使用固定核修改为`get_density_map_gaussian` 
 
+使用`calculate_num.py`可以计算csv文件中的人头数量
+
+`todenmapimg.m`可以生成图片格式的密度图
+
 
 
 > ​                ---ws 2020.6.30
